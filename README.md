@@ -1,5 +1,5 @@
-# tanchi-Mall
-贪吃商城
+## tanchi-Mall
+#贪吃商城
 项目介绍：
 基于Spring Boot+Redis的店捕点评APP,实现了找店铺=>写点评=>看热评=>点赞关注=>
 关注Feed流的完整业务流程。
